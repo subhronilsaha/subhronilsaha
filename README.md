@@ -66,7 +66,7 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>   
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
-  <img src="spark-ar-1.png" alt="spark-ar" width="40" height="40"/> 
+  <img src="https://skywell.software/wp-content/uploads/2019/05/spark-ar-1.png" alt="spark-ar" width="40" height="40"/> 
 </p>
 
 <p>
