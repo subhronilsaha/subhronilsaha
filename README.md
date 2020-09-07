@@ -9,8 +9,6 @@
 
 - 🌱 I’m currently learning **Flutter & Angular**
 
-- 💬 Ask me about **React, Swift**
-
 - 📫 How to reach me: **subhronilsaha26@gmail.com**
 
 <h3> My Skills: </h3>
