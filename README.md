@@ -5,8 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=subhronilsaha" alt="subhronilsaha" /> 
 </p>
 
-- 🔭 I’m currently working on [Facebook Spark AR Hackathon Project](https://github.com/subhronilsaha/facebook-ar-hackathon-2020)
-
 - 🌱 I’m currently learning **Flutter & Angular**
 
 - 📫 Contact me at: **subhronilsaha26@gmail.com**
