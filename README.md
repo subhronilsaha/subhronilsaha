@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Flutter & Angular**
 
-- 📫 How to reach me: **subhronilsaha26@gmail.com**
+- 📫 Contact me at: **subhronilsaha26@gmail.com**
 
 <h3> Programming Tools & Software I know and use: </h3>
 
