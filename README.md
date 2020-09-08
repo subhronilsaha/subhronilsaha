@@ -9,7 +9,7 @@
 
 - 📫 Contact me at: **subhronilsaha26@gmail.com**
 
-<h3> Programming Tools & Software I know and use: </h3>
+<h3> Programming Tools & Software I work with: </h3>
 
 <h5> Programming languages </h5>
 <p align="left">
