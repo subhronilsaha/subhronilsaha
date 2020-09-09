@@ -3,7 +3,6 @@
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=subhronilsaha" alt="subhronilsaha" /> 
-</p>
 
 - 🌱 I’m currently learning **Flutter & Angular**
 
