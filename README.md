@@ -51,13 +51,6 @@
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
 </p>
 
-<h5> Other </h5>
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/apple/apple-original.svg" alt="linux" width="40" height="40"/> 
-</p>
-
 <h5> Software </h5>
 <p align="left">
   <img src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" alt="photoshop" width="40" height="40"/>   
@@ -65,6 +58,13 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
   <img src="https://skywell.software/wp-content/uploads/2019/05/spark-ar-1.png" alt="spark-ar" width="40" height="40"/> 
+</p>
+
+<h5> Other </h5>
+<p align="left">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>   
+  <img src="https://www.logolynx.com/images/logolynx/13/137fbbc45babc1c2df798ebbac18eca5.png" alt="mac" height="40"/> 
 </p>
 
 <p>
