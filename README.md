@@ -5,9 +5,9 @@
   <img src="https://komarev.com/ghpvc/?username=subhronilsaha" alt="subhronilsaha" /> 
 </p>
 
-- 🌱 I’m currently learning **Flutter & Angular**
+I’m currently learning **Flutter & Angular**
 
-- 📫 Contact me at: **subhronilsaha26@gmail.com**
+Contact me at: **subhronilsaha26@gmail.com**
 
 <h3> Programming Tools & Software I work with: </h3>
 
