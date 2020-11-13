@@ -51,13 +51,13 @@ Contact me at: **subhronilsaha26@gmail.com**
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
 </p>
 
-<h5> Software </h5>
+<h5> Design Software </h5>
 <p align="left">
   <img src="https://logodownload.org/wp-content/uploads/2019/10/photoshop-logo-3.png" alt="photoshop" width="40" height="40"/>   
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> 
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Adobe_XD_CC_icon.svg/1200px-Adobe_XD_CC_icon.svg.png" alt="xd" width="40" height="40"/> 
   <img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40"/> 
-  <img src="https://skywell.software/wp-content/uploads/2019/05/spark-ar-1.png" alt="spark-ar" width="40" height="40"/> 
+<!--   <img src="https://skywell.software/wp-content/uploads/2019/05/spark-ar-1.png" alt="spark-ar" width="40" height="40"/>  -->
 </p>
 
 <h5> Other </h5>
