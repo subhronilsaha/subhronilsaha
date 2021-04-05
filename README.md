@@ -79,7 +79,7 @@ Contact me at: **subhronilsaha26@gmail.com**
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhronilsaha&layout=compact&hide=html" alt="subhronilsaha" />
 </p>
 
-<p>
+<p> &nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhronilsaha&show_icons=true" alt="subhronilsaha" />
 </p>
 
