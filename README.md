@@ -80,7 +80,7 @@ Contact me at: **subhronilsaha26@gmail.com**
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=subhronilsaha&show_icons=true" alt="subhronilsaha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhronilsaha&show_icons=true" alt="subhronilsaha" />
 </p>
 
 <p align="center">
