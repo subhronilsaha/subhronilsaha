@@ -71,7 +71,7 @@ Contact me at: **subhronilsaha26@gmail.com**
 <h5> Version Control </h5>
 <p align="left">
   <img src="https://git-scm.com/images/logos/downloads/Git-Logo-1788C.png" alt="git" height="40"/> 
-  <img src="https://www.influxdata.com/wp-content/uploads/GitHub-logo.jpg" alt="github" height="40"/>   
+  <img src="https://www.kindpng.com/picc/m/128-1280187_github-logo-png-github-transparent-png.png" alt="github" height="40"/>   
   <img src="https://cfdn.clearvision-cm.com/wp-content/uploads/2018/05/10131210/Bitbucket-logo-icon.png" alt="bitbucket" height="40"/> 
 </p>
 
@@ -79,8 +79,8 @@ Contact me at: **subhronilsaha26@gmail.com**
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhronilsaha&layout=compact&hide=html" alt="subhronilsaha" />
 </p>
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=subhronilsaha&show_icons=true" alt="subhronilsaha" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=subhronilsaha&show_icons=true" alt="subhronilsaha" />
 </p>
 
 <p align="center">
