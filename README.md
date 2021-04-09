@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Subhronil</h1>
-<h3 align="center">Fullstack Web & iOS developer from India</h3>
+<h3 align="center">Web & iOS developer from India</h3>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=subhronilsaha" alt="subhronilsaha" /> 
 </p>
 
-I’m currently learning **Flutter & SwiftUI**
+I’m a Junior year CS Engineering undergraduate student studying at UEM, Kolkata. Welcome to my Github profile.
 
-Contact me at: **subhronilsaha26@gmail.com**
+Email: **subhronilsaha26@gmail.com**
 
+<!--
 <h3> Programming Tools & Software I work with: </h3>
 
 <h5> Programming languages </h5>
@@ -24,10 +25,7 @@ Contact me at: **subhronilsaha26@gmail.com**
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="html5" width="40" height="40"/> 
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css3" width="40" height="40"/> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript" width="40" height="40"/>   
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/480px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> 
-  <img src="https://e7.pngegg.com/pngimages/72/936/png-clipart-sass-cascading-style-sheets-preprocessor-less-postcss-meng-miscellaneous-text.png" alt="sass" width="40" height="40"/>  
   <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/> 
-  <img src="https://i.pinimg.com/originals/71/f0/a4/71f0a4c41735f951f9823725ee42cf8a.png" alt="redux" height="40"/> 
 </p>
 
 <h5> Backend development </h5>
@@ -74,6 +72,8 @@ Contact me at: **subhronilsaha26@gmail.com**
   <img src="https://www.kindpng.com/picc/m/128-1280187_github-logo-png-github-transparent-png.png" alt="github" height="40"/>   
   <img src="https://cfdn.clearvision-cm.com/wp-content/uploads/2018/05/10131210/Bitbucket-logo-icon.png" alt="bitbucket" height="40"/> 
 </p>
+
+-->
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhronilsaha&layout=compact&hide=html" alt="subhronilsaha" />
