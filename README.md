@@ -6,7 +6,7 @@ Welcome to my Github profile!
   <img src="https://komarev.com/ghpvc/?username=subhronilsaha" alt="subhronilsaha" /> 
 </p>
 
-I’m a Junior year CS Engineering undergraduate student studying at UEM, Kolkata. I mostly do iOS development. I love learning new tech!
+I’m a Junior year CS Engineering undergraduate student studying at UEM, Kolkata. I mostly do iOS development, and I love learning new tech!
 
 Email: **subhronilsaha26@gmail.com**
 
