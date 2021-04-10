@@ -1,12 +1,12 @@
-<!--
-<h1 align="center">Hi 👋, I'm Subhronil</h1>
-<h3 align="center">Web & iOS developer from India</h3>
--->
+# Hi 👋, I'm Subhronil
+
+Welcome to my Github profile!
+
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=subhronilsaha" alt="subhronilsaha" /> 
 </p>
 
-I’m a Junior year CS Engineering undergraduate student studying at UEM, Kolkata. Welcome to my Github profile.
+I’m a Junior year CS Engineering undergraduate student studying at UEM, Kolkata. I mostly do iOS development. I love learning new tech!
 
 Email: **subhronilsaha26@gmail.com**
 
@@ -88,15 +88,15 @@ Email: **subhronilsaha26@gmail.com**
 
 <p align="center">
   <a href="https://linkedin.com/in/subhronil-saha" target="blank" margin="0 20px">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="subhronil-saha" height="30" width="30" />
+    <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="subhronil-saha" height="30" width="30" />
   </a>
   <a href="https://www.behance.net/subhronilsaha" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/behance.svg" alt="subhronilsaha" height="30" width="30" />
+    <img align="center" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="subhronilsaha" height="30" width="30" />
   </a>
   <a href="https://www.codechef.com/subhronil99" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="subhronil99" height="30" width="30" />
+    <img align="center" src="https://s3.amazonaws.com/codechef_shared/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" alt="subhronil99" height="30" width="30" />
   </a>
   <a href="https://www.hackerrank.com/subhronilsaha26" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="subhronilsaha26" height="30" width="30" />
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="subhronilsaha26" height="30" width="30" />
   </a>
 </p>
