@@ -76,13 +76,13 @@ Email: **subhronilsaha26@gmail.com**
 
 -->
 
-<div>
+<span>
 <img src="https://github-readme-stats.vercel.app/api?username=subhronilsaha&show_icons=true" width="40%" alt="subhronilsaha" />
-</div>
+</span>
 
-<div>
+<span>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhronilsaha&layout=compact&hide=html" width="40%" alt="subhronilsaha" />
-</div>
+</span>
 
 <p align="center">
   <a href="https://linkedin.com/in/subhronil-saha" target="blank" margin="0 20px">
