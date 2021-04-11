@@ -79,11 +79,11 @@ Email: **subhronilsaha26@gmail.com**
 -->
 
 <span>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhronilsaha&layout=compact&hide=html" width="40%" alt="subhronilsaha" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhronilsaha&layout=compact&hide=html" width="41%" alt="subhronilsaha" />
 </span>
 
 <span>
-<img src="https://github-readme-stats.vercel.app/api?username=subhronilsaha&show_icons=true" width="40%" alt="subhronilsaha" />
+<img src="https://github-readme-stats.vercel.app/api?username=subhronilsaha&show_icons=true" width="41%" alt="subhronilsaha" />
 </span>
 
 <br>
