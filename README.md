@@ -10,7 +10,6 @@ I’m a Junior year CS Engineering undergraduate student studying at UEM, Kolkat
 
 Email: **subhronilsaha26@gmail.com**
 
-<!--
 <h3> Programming Tools & Software I work with: </h3>
 
 <h5> Programming languages </h5>
@@ -21,19 +20,29 @@ Email: **subhronilsaha26@gmail.com**
   <img src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311-python-programming-language-icon-by-vexels.png" alt="python" width="40" height="40"/> 
 </p>
 
-<h5> Frontend development </h5>
+<h5> Mobile App Development </h5>
 <p align="left">
+  <img src="https://brandslogos.com/wp-content/uploads/thumbs/swift-logo-vector.svg" alt="swift" width="40" height="40"/>
+  <img src="https://preview.redd.it/xbf206upai651.png?auto=webp&s=e3d2d8c9fbcdd2ed65c11685ec787d31480bf407" alt="xcode" height="40"/>
+  <img src="https://www.iphonehacks.com/wp-content/uploads/2015/11/Screen-Shot-2014-09-23-at-10.22.20-AM-2.png" alt="testflight" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
+</p>
+
+<h5> Frontend development </h5>
+<p>
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582748_1280.png" alt="html5" width="40" height="40"/> 
   <img src="https://cdn.pixabay.com/photo/2017/08/05/11/16/logo-2582747_1280.png" alt="css3" width="40" height="40"/> 
   <img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2752148-2284965.png" alt="javascript" width="40" height="40"/>   
   <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/> 
 </p>
 
+<!--
 <h5> Backend development </h5>
 <p align="left">
   <img src="https://www.paceit.co.uk/wp-content/uploads/2019/08/node-js-logo.jpg" alt="nodejs" height="40"/> 
   <img src="https://expressjs.com/images/express-facebook-share.png" alt="express" height="40"/> 
 </p>
+-->
 
 <h5> Database </h5>
 <p align="left">
@@ -41,14 +50,6 @@ Email: **subhronilsaha26@gmail.com**
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="mysql" width="40" height="40"/> 
   <img src="https://www.quest.com/community/cfs-filesystemfile/__key/communityserver-components-secureimagefileviewer/communityserver-blogs-components-weblogfiles-00-00-00-00-39/Slide2.JPG_2D00_1100x500x2.jpg?_=637219525519183603" alt="postgresql" height="40"/>
   <img src="https://myopsblog.files.wordpress.com/2016/03/oracledatabase-01.png" alt="oracle" height="40"/>
-</p>
-
-<h5> Mobile App Development </h5>
-<p align="left">
-  <img src="https://brandslogos.com/wp-content/uploads/thumbs/swift-logo-vector.svg" alt="swift" width="40" height="40"/>
-  <img src="https://preview.redd.it/xbf206upai651.png?auto=webp&s=e3d2d8c9fbcdd2ed65c11685ec787d31480bf407" alt="xcode" height="40"/>
-  <img src="https://www.iphonehacks.com/wp-content/uploads/2015/11/Screen-Shot-2014-09-23-at-10.22.20-AM-2.png" alt="testflight" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> 
 </p>
 
 <h5> Design Software </h5>
@@ -60,6 +61,7 @@ Email: **subhronilsaha26@gmail.com**
   <img src="https://wptavern.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png" alt="figma" height="40"/> 
 </p>
 
+<!-- 
 <h5> Operating Systems </h5>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" alt="windows" height="40"/> 
