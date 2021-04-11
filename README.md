@@ -81,7 +81,7 @@ Email: **subhronilsaha26@gmail.com**
 </div>
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhronilsaha&layout=compact&hide=html" width="30%" alt="subhronilsaha" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhronilsaha&layout=compact&hide=html" width="25%" alt="subhronilsaha" />
 </div>
 
 <p align="center">
