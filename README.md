@@ -74,15 +74,15 @@ Email: **subhronilsaha26@gmail.com**
   <img src="https://cfdn.clearvision-cm.com/wp-content/uploads/2018/05/10131210/Bitbucket-logo-icon.png" alt="bitbucket" height="40"/> 
 </p>
 
--->
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=subhronilsaha&show_icons=true" width="55%" alt="subhronilsaha" />
+</div>
 
+<div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhronilsaha&layout=compact&hide=html" width="35%" alt="subhronilsaha" />
+</div>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=subhronilsaha&show_icons=true" alt="subhronilsaha" />
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=subhronilsaha&layout=compact&hide=html" alt="subhronilsaha" />
-
-
-<p align="center">
+<div align="center">
   <a href="https://linkedin.com/in/subhronil-saha" target="blank" margin="0 20px">
     <img align="center" src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" alt="subhronil-saha" height="30" width="30" />
   </a>
@@ -95,4 +95,4 @@ Email: **subhronilsaha26@gmail.com**
   <a href="https://www.hackerrank.com/subhronilsaha26" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="subhronilsaha26" height="30" width="30" />
   </a>
-</p>
+</div>
