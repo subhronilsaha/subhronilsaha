@@ -48,7 +48,6 @@ Email: **subhronilsaha26@gmail.com**
 <p align="left">
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
   <img src="https://pngimg.com/uploads/mysql/mysql_PNG9.png" alt="mysql" width="40" height="40"/> 
-  <img src="https://www.quest.com/community/cfs-filesystemfile/__key/communityserver-components-secureimagefileviewer/communityserver-blogs-components-weblogfiles-00-00-00-00-39/Slide2.JPG_2D00_1100x500x2.jpg?_=637219525519183603" alt="postgresql" height="40"/>
   <img src="https://myopsblog.files.wordpress.com/2016/03/oracledatabase-01.png" alt="oracle" height="40"/>
 </p>
 
