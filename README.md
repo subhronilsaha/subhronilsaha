@@ -1,5 +1,4 @@
-# Hi 👋
-# I'm Subhronil
+# Hi 👋, I'm Subhronil 
 
 Welcome to my Github profile!
 
