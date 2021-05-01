@@ -6,10 +6,11 @@ Welcome to my Github profile!
   <img src="https://komarev.com/ghpvc/?username=subhronilsaha" alt="subhronilsaha" /> 
 </p>
 
-I’m a Junior year CS Engineering undergraduate student studying at UEM, Kolkata. I mostly do iOS development, and I love learning new tech!
+I’m a Junior year CS Engineering undergraduate student studying at UEM, Kolkata. I mostly do iOS development, and I like competitive coding. 
 
 Email: **subhronilsaha26@gmail.com**
 
+<!--
 <h3> Programming Tools & Software I work with: </h3>
 
 <h5> Programming languages </h5>
@@ -36,13 +37,11 @@ Email: **subhronilsaha26@gmail.com**
   <img src="https://cdn.worldvectorlogo.com/logos/react-1.svg" alt="react" width="40" height="40"/> 
 </p>
 
-<!--
 <h5> Backend development </h5>
 <p align="left">
   <img src="https://www.paceit.co.uk/wp-content/uploads/2019/08/node-js-logo.jpg" alt="nodejs" height="40"/> 
   <img src="https://expressjs.com/images/express-facebook-share.png" alt="express" height="40"/> 
 </p>
--->
 
 <h5> Database </h5>
 <p align="left">
@@ -60,7 +59,7 @@ Email: **subhronilsaha26@gmail.com**
   <img src="https://wptavern.com/wp-content/uploads/2018/11/Screen-Shot-2018-11-19-at-8.43.27-PM.png" alt="figma" height="40"/> 
 </p>
 
-<!-- 
+
 <h5> Operating Systems </h5>
 <p align="left">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" alt="windows" height="40"/> 
