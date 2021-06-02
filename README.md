@@ -95,7 +95,7 @@ Email: **subhronilsaha26@gmail.com**
     <img align="center" src="https://cdn.worldvectorlogo.com/logos/behance-1.svg" alt="subhronilsaha" height="30" width="30" />
   </a>
   <a href="https://www.codechef.com/subhronil99" target="blank">
-    <img align="center" src="https://s3.amazonaws.com/codechef_shared/sites/default/files/uploads/pictures/811b20a47eac52b10c90ab82e0628e21.png" alt="subhronil99" height="30" width="30" />
+    <img align="center" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" alt="subhronil99" height="30" width="30" />
   </a>
   <a href="https://www.hackerrank.com/subhronilsaha26" target="blank">
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" alt="subhronilsaha26" height="30" width="30" />
