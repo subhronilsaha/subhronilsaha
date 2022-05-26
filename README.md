@@ -6,7 +6,9 @@ Welcome to my Github profile!
   <img src="https://komarev.com/ghpvc/?username=subhronilsaha" alt="subhronilsaha" /> 
 </p>
 
-I’m a Software Engineer primarily building iOS apps. I love all things Swift & Apple! I've studied from UEM, Kolkata. Some of my hobbies include solving Rubix cubes & Pyraminx and competitive coding. 
+I’m a Software Engineer primarily building iOS apps. I love Swift & Apple, and I'm currently dabbling into the world of Web3. I've studied CS from UEM, Kolkata. Some of my hobbies include solving the Rubix cube & Pyraminx and competitive coding. 
+
+Hope you have a good time going through my Github!
 
 Email: **subhronilsaha26@gmail.com**
 
