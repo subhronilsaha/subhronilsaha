@@ -10,8 +10,8 @@ I love Swift & Apple, and I'm currently dabbling into the world of Web3. I've st
 
 Hope you have a good time going through my Github!
 
-Email: **subhronilsaha26@gmail.com**
-
+<!-- Email: **subhronilsaha26@gmail.com**
+ -->
 <!--
 <h3> Programming Tools & Software I work with: </h3>
 
